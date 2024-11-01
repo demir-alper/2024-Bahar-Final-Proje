@@ -1,0 +1,18 @@
+Action |  AKSİYON
+Adult |  YETİŞKİN
+Adventure |  MACERA
+Animation| ANİMASYON 
+Comedy |  KOMEDİ
+Crime |  SUÇ
+Family | AİLE 
+Fantasy | FANTEZİ
+History | TARİH
+Horror | KORKU  
+Mystery | GİZEM
+News | HABER 
+Romance | ROMANTİK
+Sci-Fi | BİLİM KURGU 
+Sport | SPOR 
+Talk-Show | SOHBET 
+War | SAVAŞ
+Western| BATI
